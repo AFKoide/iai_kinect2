@@ -60,12 +60,11 @@ rosrun kinect2_calibration kinect2_calibration chess5x7x0.03 calibrate depth
 
 
 #### 4/ Voir les résultats:
+```
 rosrun kinect2_viewer kinect2_viewer image
-
 rosrun kinect2_viewer kinect2_viewer cloud
-
 rosrun kinect2_viewer kinect2_viewer hd both
-
+```
 
 
 
